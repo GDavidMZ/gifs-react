@@ -1,4 +1,3 @@
-
 const PreviousSearches = () => {
     return (
         <div className="previous-searches">
